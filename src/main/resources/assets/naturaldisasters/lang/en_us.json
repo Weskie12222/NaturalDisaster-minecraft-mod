@@ -1,0 +1,12 @@
+{
+	"creativeTab.naturaldisasters": "Natural Disasters",
+	"block.naturaldisasters.siren": "Warning Siren",
+	"item.naturaldisasters.seismograph": "Seismograph",
+	"item.naturaldisasters.tsunami_detector": "Tsunami Detector",
+	"item.naturaldisasters.storm_radar": "Storm Radar",
+	"item.naturaldisasters.flood_gauge": "Flood Gauge",
+	"subtitles.naturaldisasters.siren": "Siren wails",
+	"subtitles.naturaldisasters.rumble": "Ground rumbles",
+	"subtitles.naturaldisasters.roar": "Wind roars",
+	"subtitles.naturaldisasters.wave": "Wave surges"
+}

@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"lit=false": { "model": "naturaldisasters:block/siren" },
+		"lit=true": { "model": "naturaldisasters:block/siren_lit" }
+	}
+}

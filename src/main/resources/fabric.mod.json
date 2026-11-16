@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "naturaldisasters",
+	"version": "${version}",
+	"name": "Natural Disasters",
+	"description": "Earthquakes, tornadoes, tsunamis, floods, hurricanes and ground rifts that open into caves - plus sirens and detector tools that warn you before they hit.",
+	"authors": ["You"],
+	"license": "MIT",
+	"icon": "assets/naturaldisasters/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.naturaldisasters.NaturalDisasters"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

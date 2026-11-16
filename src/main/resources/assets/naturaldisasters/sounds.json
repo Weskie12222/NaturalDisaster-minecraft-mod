@@ -1,0 +1,29 @@
+{
+	"siren": {
+		"subtitle": "subtitles.naturaldisasters.siren",
+		"sounds": [
+			{ "name": "minecraft:event.raid.horn", "type": "event", "volume": 1.0 }
+		]
+	},
+	"rumble": {
+		"subtitle": "subtitles.naturaldisasters.rumble",
+		"sounds": [
+			{ "name": "minecraft:entity.generic.explode", "type": "event", "pitch": 0.35, "volume": 0.9 },
+			{ "name": "minecraft:ambient.cave", "type": "event", "pitch": 0.5, "volume": 1.0 }
+		]
+	},
+	"roar": {
+		"subtitle": "subtitles.naturaldisasters.roar",
+		"sounds": [
+			{ "name": "minecraft:entity.ender_dragon.flap", "type": "event", "pitch": 0.4, "volume": 1.0 },
+			{ "name": "minecraft:weather.rain.above", "type": "event", "pitch": 0.6, "volume": 1.0 }
+		]
+	},
+	"wave": {
+		"subtitle": "subtitles.naturaldisasters.wave",
+		"sounds": [
+			{ "name": "minecraft:entity.generic.splash", "type": "event", "pitch": 0.4, "volume": 1.0 },
+			{ "name": "minecraft:entity.generic.big_fall", "type": "event", "pitch": 0.5, "volume": 0.8 }
+		]
+	}
+}

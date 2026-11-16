@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"pattern": [" C ", "ISI", "RRR"],
+	"key": {
+		"C": "minecraft:copper_ingot",
+		"I": "minecraft:iron_ingot",
+		"S": "minecraft:spyglass",
+		"R": "minecraft:redstone"
+	},
+	"result": { "id": "naturaldisasters:storm_radar", "count": 1 }
+}

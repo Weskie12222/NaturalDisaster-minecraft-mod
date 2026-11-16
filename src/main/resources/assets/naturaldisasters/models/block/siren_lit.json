@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"top": "naturaldisasters:block/siren_top_lit",
+		"bottom": "naturaldisasters:block/siren_bottom",
+		"side": "naturaldisasters:block/siren_side_lit"
+	}
+}
